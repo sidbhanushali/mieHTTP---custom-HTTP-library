@@ -1,6 +1,6 @@
 # mieHTTP---custom-HTTP-library
 
-Created a custom HTTP library to help me learn about HTTP requests. 3 different versions using ES 5 Prototype methods, Fetch API and promises, and async await. 
+Created a custom HTTP library to help me learn about HTTP requests. 3 different versions using ES 5 Prototype methods, Fetch API and promises, and async await. mieHTTP is as easy as pie.
 
 Version 1:
     - ES 5 Prototype Methods 
